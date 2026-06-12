@@ -1,4 +1,5 @@
 # CRM + WhatsApp Chatbot with AI
+> **English** | [Português (BR)](README.pt-BR.md)
 
 Web CRM with an integrated WhatsApp chatbot for a vehicle dealership.
 
